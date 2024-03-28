@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909082398201",
+    "project_id": "crudriverpod-2bed0",
+    "storage_bucket": "crudriverpod-2bed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909082398201:android:ec82110a36b3492ba3c128",
+        "android_client_info": {
+          "package_name": "com.example.crud_riverpod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4cz88j2YsnLdcM98kmEO0MzSK24TuC8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
